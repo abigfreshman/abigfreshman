@@ -38,6 +38,7 @@ to konw more about how to run a python script in isaac.<br>
 ```visualizer```: Visualization files of planning paths and scene point clouds.<br>
 
 # Note:
-In isaac sim, all task scenes need to be built manually, so after changing the task, you need to re-set the scene objects in main.py, including interesting object or the robot.
-
+1. In isaac sim, all task scenes need to be built manually, so after changing the task, you need to re-set the scene objects in ```main.py```, including interesting object or the robot.<br>
+2. More complex tasks mean more waypoints to plan. For different tasks, you can adjust the value map size in ```isaac_config.yaml``` and reduce or increase the search range of
+waypoints in ```interfaces.py``` during path planning to ensure smoother movement.<br>
 
