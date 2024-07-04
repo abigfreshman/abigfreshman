@@ -33,8 +33,11 @@ to konw more about how to run a python script in isaac.<br>
 ```move.py```: Dynamic control of the franka panda robot. Move the robot arm to the target pose<br>
 ```fakerrealscene.py```: Create faker RealScene cameras in isaac sim world and read depth and points data.<br>
 
-### Others files:
-cache: Preserves LMP decomposing and planning information. Saves the disassembly and planning information of LMP. You can call this cache information in the subsequent execution process to speed up the movement process.<br>
-visualizer: Visualization files of planning paths and scene point clouds.<br>
+### Others folder:
+```cache```: Preserves LMP decomposing and planning information. Saves the disassembly and planning information of LMP. You can call this cache information in the subsequent execution process to speed up the movement process.<br>
+```visualizer```: Visualization files of planning paths and scene point clouds.<br>
+
+# Note:
+In isaac sim, all task scenes need to be built manually, so after changing the task, you need to re-set the scene objects in main.py, including interesting object or the robot.
 
 
