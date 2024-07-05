@@ -8,7 +8,7 @@ download and install isaac sim. Run the Python script in standalone mode. In the
 ```pip install -r requirements.txt```<br>
 
 # Running Demo  <br>
-cd to the isaac sim file and run`./python.sh ./Voxposer_isaac/voxposer/main.py` to display the demo. You can see [Hellow World](https://docs.omniverse.nvidia.com/isaacsim/latest/core_api_tutorials/tutorial_core_hello_world.html)
+cd to the isaac sim file and run`./python.sh ./path/to/the/main.py` to display the demo. You can see [Hellow World](https://docs.omniverse.nvidia.com/isaacsim/latest/core_api_tutorials/tutorial_core_hello_world.html)
 to konw more about how to run a python script in isaac.<br>
 
 # Code Structure <br>
@@ -36,6 +36,7 @@ to konw more about how to run a python script in isaac.<br>
 ### Others folder:
 ```cache```: Preserves LMP decomposing and planning information. Saves the disassembly and planning information of LMP. You can call this cache information in the subsequent execution process to speed up the movement process.<br>
 ```visualizer```: Visualization files of planning paths and scene point clouds.<br>
+```scene_boject_usd```： Objects USD file used in the task scnen build.
 
 # Note:
 1. In isaac sim, all task scenes need to be built manually, so after changing the task, you need to re-set the scene objects in ```main.py```, including interesting object or the robot.<br>
