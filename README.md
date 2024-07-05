@@ -7,7 +7,7 @@ download and install isaac sim. Run the Python script in standalone mode. In the
 #### Install other dependencies:<br>
 ```pip install -r requirements.txt```<br>
 #### Install dependencies in isaac Python.sh<br>
-```./python.sh -m pip install openai==0.28.0 open3d transforms3d<br>
+```./python.sh -m pip install openai==0.28.0 open3d transforms3d```  <br>
 # Running Demo  <br>
 cd to the isaac sim file and run`./python.sh ./path/to/the/main.py` to display the demo. You can see [Hellow World](https://docs.omniverse.nvidia.com/isaacsim/latest/core_api_tutorials/tutorial_core_hello_world.html)
 to konw more about how to run a python script in isaac.<br>
