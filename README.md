@@ -36,10 +36,10 @@ to konw more about how to run a python script in isaac.<br>
 ### Others folder:
 ```cache```: Preserves LMP decomposing and planning information. Saves the disassembly and planning information of LMP. You can call this cache information in the subsequent execution process to speed up the movement process.<br>
 ```visualizer```: Visualization files of planning paths and scene point clouds.<br>
-```scene_boject_usd```： Objects USD file used in the task scnen build.
+```scene_boject_usd```： Objects USD file used in the task scnen build.<br>
 
 # Note:
 1. In isaac sim, all task scenes need to be built manually, so after changing the task, you need to re-set the scene objects in ```main.py```, including interesting object or the robot.<br>
 2. More complex tasks mean more waypoints to plan. For different tasks, you can adjust the value map size in ```isaac_config.yaml``` and reduce or increase the search range of
-waypoints in ```interfaces.py``` during path planning to ensure smoother movement.<br>
+waypoints in ```interfaces.py``` during path planning to ensure smoother movement. Note that there is a trade-off between the number of path points and the movement time <br>
 
