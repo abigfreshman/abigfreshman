@@ -26,6 +26,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="JQew7lFcBhmZI9ggwD8I-19" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JQew7lFcBhmZI9ggwD8I-6">
+          <mxGeometry x="-0.025" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="JQew7lFcBhmZI9ggwD8I-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JQew7lFcBhmZI9ggwD8I-3" target="JQew7lFcBhmZI9ggwD8I-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -34,11 +39,32 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JQew7lFcBhmZI9ggwD8I-3" value="长期记忆检索、YN" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="JQew7lFcBhmZI9ggwD8I-20" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JQew7lFcBhmZI9ggwD8I-8">
+          <mxGeometry x="0.075" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JQew7lFcBhmZI9ggwD8I-3" value="记忆检索判断" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JQew7lFcBhmZI9ggwD8I-5" value="正常执行" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JQew7lFcBhmZI9ggwD8I-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JQew7lFcBhmZI9ggwD8I-7" target="JQew7lFcBhmZI9ggwD8I-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JQew7lFcBhmZI9ggwD8I-22" value="检索成功" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JQew7lFcBhmZI9ggwD8I-21">
+          <mxGeometry x="-0.4229" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JQew7lFcBhmZI9ggwD8I-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="JQew7lFcBhmZI9ggwD8I-7" target="JQew7lFcBhmZI9ggwD8I-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JQew7lFcBhmZI9ggwD8I-24" value="检索失败" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JQew7lFcBhmZI9ggwD8I-23">
+          <mxGeometry x="0.0333" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="JQew7lFcBhmZI9ggwD8I-7" value="相似性检索" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="320" width="120" height="60" as="geometry" />
