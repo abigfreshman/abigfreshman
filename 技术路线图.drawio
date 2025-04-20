@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.1.1">
   <diagram name="Page-1" id="3hbqBePf8mesvcO_13ee">
-    <mxGraphModel dx="1583" dy="323" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1918" dy="471" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -689,7 +689,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qKkn-Dw1OFRTo-UNpiHM-229" value="仿真验证自动驾模型性能驶" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-250" y="1130" width="20" height="60" as="geometry" />
+          <mxGeometry x="-250" y="1100" width="20" height="180" as="geometry" />
         </mxCell>
         <mxCell id="qKkn-Dw1OFRTo-UNpiHM-234" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qKkn-Dw1OFRTo-UNpiHM-232">
           <mxGeometry relative="1" as="geometry">
@@ -701,7 +701,7 @@
             <mxPoint x="-240" y="1490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qKkn-Dw1OFRTo-UNpiHM-232" value="前期研究" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="qKkn-Dw1OFRTo-UNpiHM-232" value="研究结论" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-250" y="1415" width="20" height="60" as="geometry" />
         </mxCell>
       </root>
