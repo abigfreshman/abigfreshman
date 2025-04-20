@@ -173,10 +173,22 @@
           <mxGeometry x="220" y="750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qKkn-Dw1OFRTo-UNpiHM-53" value="轨迹生成模型Diffuse" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="850" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qKkn-Dw1OFRTo-UNpiHM-55" value="认知代理与轨迹生成模型的衔接层" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="850" width="120" height="60" as="geometry" />
+          <mxGeometry x="350" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qKkn-Dw1OFRTo-UNpiHM-56" value="扩散模型基本原理" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qKkn-Dw1OFRTo-UNpiHM-58" value="Diffuse设计目的" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qKkn-Dw1OFRTo-UNpiHM-59" value="Diffuse主干框架" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qKkn-Dw1OFRTo-UNpiHM-60" value="引导采样模型" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="408" y="920" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
