@@ -130,6 +130,9 @@
         <mxCell id="qKkn-Dw1OFRTo-UNpiHM-40" value="模型原理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="570" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="qKkn-Dw1OFRTo-UNpiHM-41" value="实验验证" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="570" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
