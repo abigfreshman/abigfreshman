@@ -649,8 +649,8 @@
             <mxPoint x="-240.00000000000023" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qKkn-Dw1OFRTo-UNpiHM-216" value="前期研究" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-250" y="320" width="20" height="60" as="geometry" />
+        <mxCell id="qKkn-Dw1OFRTo-UNpiHM-216" value="构建自动驾驶任务和场景认知代理" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="240" width="20" height="230" as="geometry" />
         </mxCell>
         <mxCell id="qKkn-Dw1OFRTo-UNpiHM-224" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qKkn-Dw1OFRTo-UNpiHM-223">
           <mxGeometry relative="1" as="geometry">
@@ -664,6 +664,45 @@
         </mxCell>
         <mxCell id="qKkn-Dw1OFRTo-UNpiHM-223" value="前期研究" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-250" y="80" width="20" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qKkn-Dw1OFRTo-UNpiHM-227" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qKkn-Dw1OFRTo-UNpiHM-226">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-240" y="540.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qKkn-Dw1OFRTo-UNpiHM-228" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qKkn-Dw1OFRTo-UNpiHM-226">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-240" y="980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qKkn-Dw1OFRTo-UNpiHM-226" value="构建自动阿驾驶轨迹规划模型" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="650" width="20" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="qKkn-Dw1OFRTo-UNpiHM-230" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="qKkn-Dw1OFRTo-UNpiHM-229">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-239.66666666666652" y="980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qKkn-Dw1OFRTo-UNpiHM-231" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qKkn-Dw1OFRTo-UNpiHM-229">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-240" y="1400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qKkn-Dw1OFRTo-UNpiHM-229" value="仿真验证自动驾模型性能驶" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="1130" width="20" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qKkn-Dw1OFRTo-UNpiHM-234" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qKkn-Dw1OFRTo-UNpiHM-232">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-240" y="1400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qKkn-Dw1OFRTo-UNpiHM-235" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qKkn-Dw1OFRTo-UNpiHM-232">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-240" y="1490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qKkn-Dw1OFRTo-UNpiHM-232" value="前期研究" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="1415" width="20" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
