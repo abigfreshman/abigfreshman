@@ -127,6 +127,9 @@
         <mxCell id="qKkn-Dw1OFRTo-UNpiHM-38" value="点云转化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="510" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="qKkn-Dw1OFRTo-UNpiHM-40" value="模型原理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="570" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
