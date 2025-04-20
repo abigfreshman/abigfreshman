@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.1.1">
   <diagram name="Page-1" id="3hbqBePf8mesvcO_13ee">
-    <mxGraphModel dx="1282" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2132" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,10 +20,34 @@
           <mxGeometry x="340" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qKkn-Dw1OFRTo-UNpiHM-7" value="功能模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="70" y="440" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qKkn-Dw1OFRTo-UNpiHM-8" value="判别模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="398" y="440" width="55" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qKkn-Dw1OFRTo-UNpiHM-9" value="长短期记忆" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="510" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qKkn-Dw1OFRTo-UNpiHM-10" value="任务拆解" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="510" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qKkn-Dw1OFRTo-UNpiHM-11" value="在线检索" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="510" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qKkn-Dw1OFRTo-UNpiHM-12" value="自适应交互" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="510" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qKkn-Dw1OFRTo-UNpiHM-13" value="相关性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qKkn-Dw1OFRTo-UNpiHM-14" value="逻辑完备性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qKkn-Dw1OFRTo-UNpiHM-15" value="输出判断" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qKkn-Dw1OFRTo-UNpiHM-16" value="冲突判别" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="620" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
