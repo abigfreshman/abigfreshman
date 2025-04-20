@@ -218,7 +218,10 @@
           <mxGeometry x="390" y="990" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qKkn-Dw1OFRTo-UNpiHM-75" value="使用方法" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="990" width="120" height="30" as="geometry" />
+          <mxGeometry x="560" y="990" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qKkn-Dw1OFRTo-UNpiHM-76" value="简单轨迹实验" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1060" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
