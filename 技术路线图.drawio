@@ -226,7 +226,7 @@
         <mxCell id="qKkn-Dw1OFRTo-UNpiHM-77" value="任务解析实验" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="1060" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qKkn-Dw1OFRTo-UNpiHM-78" value="实验场景和数据准备" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qKkn-Dw1OFRTo-UNpiHM-78" value="实验场景和数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="1190" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
