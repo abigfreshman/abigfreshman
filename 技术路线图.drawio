@@ -130,6 +130,9 @@
         <mxCell id="qKkn-Dw1OFRTo-UNpiHM-37" value="定位模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="510" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="qKkn-Dw1OFRTo-UNpiHM-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qKkn-Dw1OFRTo-UNpiHM-38" target="qKkn-Dw1OFRTo-UNpiHM-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qKkn-Dw1OFRTo-UNpiHM-38" value="点云转化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="510" width="70" height="30" as="geometry" />
         </mxCell>
@@ -153,6 +156,18 @@
         </mxCell>
         <mxCell id="qKkn-Dw1OFRTo-UNpiHM-48" value="模型架构" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="630" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qKkn-Dw1OFRTo-UNpiHM-49" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="qKkn-Dw1OFRTo-UNpiHM-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="540" as="sourcePoint" />
+            <mxPoint x="560" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qKkn-Dw1OFRTo-UNpiHM-50" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.425;exitY=1.057;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="qKkn-Dw1OFRTo-UNpiHM-38" target="qKkn-Dw1OFRTo-UNpiHM-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="540" as="sourcePoint" />
+            <mxPoint x="525" y="630" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
