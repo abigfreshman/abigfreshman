@@ -4,14 +4,17 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="qKkn-Dw1OFRTo-UNpiHM-62" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="338" y="490" width="242" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="qKkn-Dw1OFRTo-UNpiHM-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qKkn-Dw1OFRTo-UNpiHM-1" target="qKkn-Dw1OFRTo-UNpiHM-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qKkn-Dw1OFRTo-UNpiHM-1" value="研究背景和意义" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="210" width="100" height="30" as="geometry" />
+          <mxGeometry x="230" y="40" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qKkn-Dw1OFRTo-UNpiHM-2" value="研究现状" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="280" width="60" height="30" as="geometry" />
+          <mxGeometry x="235" y="120" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qKkn-Dw1OFRTo-UNpiHM-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qKkn-Dw1OFRTo-UNpiHM-5" target="qKkn-Dw1OFRTo-UNpiHM-7">
           <mxGeometry relative="1" as="geometry" />
@@ -127,6 +130,9 @@
         <mxCell id="qKkn-Dw1OFRTo-UNpiHM-36" value="分割模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="510" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="qKkn-Dw1OFRTo-UNpiHM-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qKkn-Dw1OFRTo-UNpiHM-37" target="qKkn-Dw1OFRTo-UNpiHM-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qKkn-Dw1OFRTo-UNpiHM-37" value="定位模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="510" width="70" height="30" as="geometry" />
         </mxCell>
@@ -173,22 +179,22 @@
           <mxGeometry x="220" y="750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qKkn-Dw1OFRTo-UNpiHM-53" value="轨迹生成模型Diffuse" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="840" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="850" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qKkn-Dw1OFRTo-UNpiHM-55" value="认知代理与轨迹生成模型的衔接层" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="840" width="120" height="60" as="geometry" />
+          <mxGeometry x="350" y="850" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qKkn-Dw1OFRTo-UNpiHM-56" value="扩散模型基本原理" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry y="920" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="qKkn-Dw1OFRTo-UNpiHM-58" value="Diffuse设计目的" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="920" width="120" height="60" as="geometry" />
+          <mxGeometry y="920" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qKkn-Dw1OFRTo-UNpiHM-59" value="Diffuse主干框架" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="920" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="920" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qKkn-Dw1OFRTo-UNpiHM-60" value="引导采样模型" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="408" y="920" width="120" height="60" as="geometry" />
+          <mxGeometry x="258" y="920" width="92" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qKkn-Dw1OFRTo-UNpiHM-63" value="自动驾驶场景任务和认知代理CogniAgent" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
