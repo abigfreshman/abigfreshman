@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.1.1">
   <diagram name="Page-1" id="3hbqBePf8mesvcO_13ee">
-    <mxGraphModel dx="1583" dy="323" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1734" dy="390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,7 +20,7 @@
           <mxGeometry x="80" y="370" width="105" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qKkn-Dw1OFRTo-UNpiHM-6" value="基于多模态视觉的场景认知模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="370" width="102" height="40" as="geometry" />
+          <mxGeometry x="408" y="370" width="102" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qKkn-Dw1OFRTo-UNpiHM-7" value="功能模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="102.5" y="440" width="60" height="30" as="geometry" />
@@ -112,26 +112,47 @@
             <mxPoint x="96" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="qKkn-Dw1OFRTo-UNpiHM-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qKkn-Dw1OFRTo-UNpiHM-34" target="qKkn-Dw1OFRTo-UNpiHM-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qKkn-Dw1OFRTo-UNpiHM-34" value="物品定位" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="440" width="70" height="30" as="geometry" />
+          <mxGeometry x="340" y="440" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qKkn-Dw1OFRTo-UNpiHM-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qKkn-Dw1OFRTo-UNpiHM-35" target="qKkn-Dw1OFRTo-UNpiHM-36">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qKkn-Dw1OFRTo-UNpiHM-35" value="全场景解析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="440" width="70" height="30" as="geometry" />
+          <mxGeometry x="500" y="440" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qKkn-Dw1OFRTo-UNpiHM-36" value="分割模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="510" width="70" height="30" as="geometry" />
+          <mxGeometry x="500" y="510" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qKkn-Dw1OFRTo-UNpiHM-37" value="定位模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="510" width="70" height="30" as="geometry" />
+          <mxGeometry x="340" y="510" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qKkn-Dw1OFRTo-UNpiHM-38" value="点云转化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="510" width="70" height="30" as="geometry" />
+          <mxGeometry x="420" y="510" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qKkn-Dw1OFRTo-UNpiHM-40" value="模型原理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="570" width="70" height="30" as="geometry" />
+          <mxGeometry x="338" y="630" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qKkn-Dw1OFRTo-UNpiHM-41" value="实验验证" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="570" width="70" height="30" as="geometry" />
+          <mxGeometry x="500" y="630" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qKkn-Dw1OFRTo-UNpiHM-43" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="qKkn-Dw1OFRTo-UNpiHM-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="410" as="sourcePoint" />
+            <mxPoint x="570" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qKkn-Dw1OFRTo-UNpiHM-44" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="qKkn-Dw1OFRTo-UNpiHM-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="410" as="sourcePoint" />
+            <mxPoint x="525" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qKkn-Dw1OFRTo-UNpiHM-48" value="模型架构" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="630" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
