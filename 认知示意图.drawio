@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="27.0.5">
   <diagram name="Page-1" id="PsExoa1y-mrZXoW8t1LM">
-    <mxGraphModel dx="1342" dy="271" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2573" dy="950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -94,6 +94,9 @@
             <mxPoint x="830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="yaXNEl8GvIzZGL2AJZNn-77" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;任务认知模型&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="yaXNEl8GvIzZGL2AJZNn-62">
+          <mxGeometry x="130" y="40" width="190" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="yaXNEl8GvIzZGL2AJZNn-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="yaXNEl8GvIzZGL2AJZNn-33">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="290" y="755" as="sourcePoint" />
@@ -169,6 +172,9 @@
             <mxPoint x="1240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="yaXNEl8GvIzZGL2AJZNn-78" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;任务认知模型&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="yaXNEl8GvIzZGL2AJZNn-76">
+          <mxGeometry x="580" y="30" width="190" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="yaXNEl8GvIzZGL2AJZNn-57" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="780" y="270" as="sourcePoint" />
@@ -207,6 +213,9 @@
               <mxPoint x="1302.39" y="470" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="yaXNEl8GvIzZGL2AJZNn-79" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;轨迹生成模型&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="870" y="314" width="190" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
